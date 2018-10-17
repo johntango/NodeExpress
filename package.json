@@ -1,15 +1,27 @@
 {
     "name": "server0",
     "version": "1.0.0",
-    "description": "",
-    "main": "hello.js",
+    "main": "02.js",
     "dependencies": {
-        "express": "^4.15.4"
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "testexport931": "^1.0.0",
+        "testexport932": "^1.0.0",
+        "testexport933": "^1.0.0"
     },
     "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "John",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/johntango/NodeExpress.git"
+    },
+    "bugs": {
+        "url": "https://github.com/johntango/NodeExpress/issues"
+    },
+    "homepage": "https://github.com/johntango/NodeExpress#readme",
+    "description": ""
 }
